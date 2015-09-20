@@ -136,7 +136,8 @@ stepsByDayMedian_missingdatafilledin
 ## [1] 10766.19
 ```
 
-Mean and Median When Missing Data Filled In 1.0766189 &times; 10<sup>4</sup> 1.0766189 &times; 10<sup>4</sup>
+Mean  When Missing Data Filled In 1.0766189 &times; 10<sup>4</sup> 
+Median When Missing Data Filled In 1.0766189 &times; 10<sup>4</sup>
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
