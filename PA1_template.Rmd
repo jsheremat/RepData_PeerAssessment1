@@ -96,7 +96,8 @@ stepsByDayMean_missingdatafilledin
 stepsByDayMedian_missingdatafilledin
 ```
 
-Mean and Median When Missing Data Filled In `r stepsByDayMean_missingdatafilledin ` `r stepsByDayMedian_missingdatafilledin`
+Mean  When Missing Data Filled In `r stepsByDayMean_missingdatafilledin ` 
+Median When Missing Data Filled In `r stepsByDayMedian_missingdatafilledin`
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
